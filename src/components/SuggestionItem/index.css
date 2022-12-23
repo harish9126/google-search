@@ -1,0 +1,20 @@
+.suggestion-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.suggestion {
+  font-size: 15px;
+}
+
+.arrow-icon {
+  width: 25px;
+  margin-right: 10px;
+}
